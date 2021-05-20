@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CS2150_Workspace/LWJGL/jar/AppleJavaExtensions.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CS2150_Workspace/LWJGL/jar/asm-debug-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CS2150_Workspace/LWJGL/jar/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CS2150_Workspace/LWJGL/jar/lwjgl_util_applet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CS2150_Workspace/LWJGL/jar/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CS2150_Workspace/LWJGL/jar/lwjgl_test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CS2150_Workspace/LWJGL/jar/lwjgl-debug.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CS2150_Workspace/LWJGL/jar/slick-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CS2150_Workspace/LWJGL/jar/lzma.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CS2150_Workspace/LWJGL/jar/lwjgl_util.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
